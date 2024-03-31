@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts related PROD APIs"
+  contactDetails:
+    name: "Barack Obama - PROD Owner"
+    email: "barackobama@eazybank.com"
+  onCallSupport:
+    - (555) 999-5678
+    - (555) 888-7654

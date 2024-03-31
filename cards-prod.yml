@@ -1,0 +1,11 @@
+build:
+    version: "1.0"
+
+cards:
+    message: "Welcome to Eazybank cards related PROD APIs"
+    contactDetails:
+        name: "Paul Johnson - Product Owner"
+        email: "PaulJohnson@eazybank.com"
+    onCallSupport:
+        - (555) 666-4321
+        - (555) 666-1234

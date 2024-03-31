@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to Eazybank cards related QA APIs"
+  contactDetails:
+    name: "Jane Doe - QA Lead"
+    email: "janedoe@eazybank.com"
+  onCallSupport:
+    - (555) 555-4321
+    - (555) 555-1234
