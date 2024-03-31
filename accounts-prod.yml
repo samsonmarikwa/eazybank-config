@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related PROD APIs"
   contactDetails:
     name: "Barack Obama - PROD Owner"
-    email: "f2d92815fc11a768d3e84319b7c9dcc782dde3a67bc3139ac44695cefe4bd5adaca333dfe6b4143b7fc52608b0c0fa98"
+    email: "{cipher}f2d92815fc11a768d3e84319b7c9dcc782dde3a67bc3139ac44695cefe4bd5adaca333dfe6b4143b7fc52608b0c0fa98"
   onCallSupport:
     - (555) 999-5678
     - (555) 888-7654
