@@ -2,10 +2,10 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to Eazybank cards related PROD APIs"
+  message: "Welcome to Eazybank cards related Production APIs"
   contactDetails:
-    name: "Jane Doe - Product Owner"
-    email: "janedoe@eazybank.com"
+    name: "Chisuriso Mhinoyeswa - Product Owner"
+    email: "ChisurisoMhinoyeswa@eazybank.com"
   onCallSupport:
     - (555) 555-4321
     - (555) 555-1234
