@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to Eazybank accounts related Production APIs"
   contactDetails:
-    name: "Barack Obama - PROD Owner"
-    email: "{cipher}03d0528c4a31d4381da8a5d117bf1b6f9e33d7df0d67886108b456ec79dca9c97d2d7763f83540da4d073bb75feb2cc56d5e9e5991ee9eb46d203649b8c050dd"
+    name: "Joe Biden - PROD Owner"
+    email: "{cipher}c5d59542998e3a80f1ce5af66c6b21d4c02f9cd6d4e740f62de019a9b595edb8e03f8d4f9fbe2cb99805d4b148e793c3"
   onCallSupport:
     - (555) 999-5678
     - (555) 888-7654
