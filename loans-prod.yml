@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to Eazybank cards related Production APIs"
   contactDetails:
-    name: "Mhinoyeswa Chisuriso - Product Owner"
-    email: "MhinoyeswaChisuriso@eazybank.com"
+    name: "Lazarus Gumisai Nzarayebani - Product Owner"
+    email: "LazarusGumisaiNzarayebani@eazybank.com"
   onCallSupport:
     - (555) 555-4321
     - (555) 555-1234
